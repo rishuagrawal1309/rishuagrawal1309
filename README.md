@@ -19,11 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishuagrawal1309&show_icons=true&theme=radical)
-
----
-
 ### 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishuagrawal1309&theme=radical)
 
